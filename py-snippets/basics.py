@@ -1,3 +1,4 @@
+
 import sys
 
 # Hello world
@@ -176,11 +177,6 @@ my_dog.sit()
 
 # Inheritance
 class SARDog(Dog):
-    """Represent a search dog."""
-    def __init__(self, name):
-        """Initialize the sardog."""
-        super().__init__(name)
-
     def search(self):
         """Simulate searching."""
         print(self.name + " is searching.")

@@ -2,7 +2,7 @@
 alien_0 = {'color': 'green', 'points': 5}
 
 
-# Getting the value associated with a key
+# Getting the value associated with a key 
 alien_0 = {'color': 'green', 'points': 5}
 print(alien_0['color'])
 print(alien_0['points'])
