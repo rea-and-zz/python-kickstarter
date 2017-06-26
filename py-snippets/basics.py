@@ -21,6 +21,16 @@ full_name = first_name + ' ' + last_name
 print(">>> Concatenation: {}".format(full_name))
 
 
+# Sort a string characters
+str = 'ZENOVW'
+str_norted = ''.join(sorted(a))
+
+
+# Reverse a string
+str = 'ZENOVW'
+str_norted = str[::-1]
+
+
 # Make a list
 bikes = ['trek', 'redline', 'giant']
 
