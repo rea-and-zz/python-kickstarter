@@ -1,5 +1,6 @@
 # Making a dictionary
 alien_0 = {'color': 'green', 'points': 5}
+test = dict(f1=10, f2=20)
 
 
 # Getting the value associated with a key 
