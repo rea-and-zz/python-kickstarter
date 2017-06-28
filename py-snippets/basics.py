@@ -31,6 +31,11 @@ str = 'ZENOVW'
 str_norted = str[::-1]
 
 
+# Split string into words with delimited ":"
+test_split = "ciao:mamma lala"
+print(test_split.split(':'))
+
+
 # Make a list
 bikes = ['trek', 'redline', 'giant']
 
